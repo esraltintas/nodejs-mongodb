@@ -1,3 +1,5 @@
+
+
 #Node.js Kurulum
 
 **Linux**
@@ -17,8 +19,8 @@ cd node-v0.12.2
 * Terminali açıp 
 <pre><code>
 sudo apt-get update
-sudo apt-get install nodejs npm</code></pre> yazabilirsiniz.
-
+sudo apt-get install nodejs npm</code></pre> 
+yazabilirsiniz.
 
 **Mac**
 
@@ -47,8 +49,10 @@ Ardından terminal kullanmak için [git bash](http://git-scm.com/) indirip kurma
 **Test**
 
 * Terminal'i açınız.
-```node -v
-npm -v```
+<pre><code>node -v 
+npm -v </code></pre>
+
+
 
 
 
