@@ -24,9 +24,6 @@ cd node-v0.12.2
 
 
 
-
-
-
 **Mac**
 
 
@@ -45,11 +42,9 @@ com/Homebrew/install/master/install)"
 
 
 
-
-
 **Windows**
 
-1. Node.js in **.msi.** uzantılı son versiyonunu [buradan](https://nodejs.org/download/)    indirebilirsiniz.
+1. Node.js in **.msi.** uzantılı son versiyonunu [buradan](https://nodejs.org/download/) indirebilirsiniz.
 Ardından terminal kullanmak için [git bash](http://git-scm.com/) indirip kurmalısınız.
 
 
@@ -58,7 +53,7 @@ Ardından terminal kullanmak için [git bash](http://git-scm.com/) indirip kurma
 
 * Terminal'i açınız.
 <pre><code>node -v</code>
-<code>npm -v</code></pre> </li>
+<code>npm -v</code></pre>
 
 
 
