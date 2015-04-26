@@ -106,7 +106,7 @@ Not: 64 bit versiyonu 32 bitte çalışmamaktadır.
 <pre><code>brew install mongodb --with-openssl
 </code></pre>
 
-* Geliştirilen son sürümü yükleyiniz.
+* Başka bir sürüm yüklemek isterseniz
 
 <pre><code>brew install mongodb --devel
 </code></pre>
@@ -136,7 +136,7 @@ cp -R -n mongodb-osx-x86_64-3.0.2/ mongodb
 * Önce terminali açınız.
 
 <pre><code>ruby -e "$(curl -fsSL https://raw.githubusercontent.
-com/Homebrew/install/master/install)"</pre>
+com/Homebrew/install/master/install)"</code></pre>
 
 
 
