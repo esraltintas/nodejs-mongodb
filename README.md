@@ -27,7 +27,7 @@ yazabilirsiniz.
 
 * Node.js in **.pkg.** uzantılı son versiyonunu [buradan](https://nodejs.org/download/)    indirebilirsiniz.
 
-* Terminal'i açıp önce <pre><code>brew install node<code></pre> yazabilirsiniz.
+* Terminal'i açıp önce <pre><code>brew install node</code></pre> yazabilirsiniz.
 
 
 **Homebrew kurulumu**
@@ -35,7 +35,7 @@ yazabilirsiniz.
 * Önce terminali açınız.
 
 <pre><code>ruby -e "$(curl -fsSL https://raw.githubusercontent.
-com/Homebrew/install/master/install)"</pre>
+com/Homebrew/install/master/install)"</code></pre>
 
 
 
